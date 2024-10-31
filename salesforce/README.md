@@ -14,7 +14,7 @@ Approval Process: Validate and control property listings through a customizable 
 Access Control with LWC: Lightning Web Component (LWC) provides verified and non-verified customers with access to the appropriate listings.
 # Links
 - Jotform Link: [https://form.jotform.com/242992145526058](https://submit.jotform.com/243015395174051)
-- Youtube Link for Demonstration: [https://youtu.be/ciCi2wzlR7g](https://youtu.be/nhPYyQArDiE)
+- Youtube Link for Demonstration: [https://youtu.be/nhPYyQArDiE](https://youtu.be/nhPYyQArDiE)
 - Documentation:https://github.com/vinaythanay/ClientsPropertyLWC/blob/main/salesforce/projectsalesforce.pdf
 # Salesforce DX Project: Next Steps
 
