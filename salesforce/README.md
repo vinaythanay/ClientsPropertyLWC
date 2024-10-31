@@ -13,9 +13,9 @@ Jotform Integration: Automatically sync customer data from Jotform submissions t
 Approval Process: Validate and control property listings through a customizable approval process.
 Access Control with LWC: Lightning Web Component (LWC) provides verified and non-verified customers with access to the appropriate listings.
 # Links
-- Jotform Link: https://form.jotform.com/242992145526058
-- Youtube Link for Demonstration: https://youtu.be/ciCi2wzlR7g
-- Documentation: Documentation
+- Jotform Link: [https://form.jotform.com/242992145526058](https://submit.jotform.com/243015395174051)
+- Youtube Link for Demonstration: [https://youtu.be/ciCi2wzlR7g](https://youtu.be/nhPYyQArDiE)
+- Documentation: [projectsalesforce.pdf]
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
