@@ -15,7 +15,7 @@ Access Control with LWC: Lightning Web Component (LWC) provides verified and non
 # Links
 - Jotform Link: [https://form.jotform.com/242992145526058](https://submit.jotform.com/243015395174051)
 - Youtube Link for Demonstration: [https://youtu.be/nhPYyQArDiE](https://youtu.be/nhPYyQArDiE)
-- Documentation:https://github.com/vinaythanay/ClientsPropertyLWC/blob/main/salesforce/projectsalesforce.pdf
+- Documentation:https://github.com/vinaythanay/ClientsPropertyLWC/blob/main/salesforce/Projectsalesforce.pdf
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
